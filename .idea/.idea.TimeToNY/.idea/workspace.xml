@@ -21,18 +21,31 @@
         <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:upstream/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3f4e6ae-7409-40b1-8f24-30b981567956" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Icyman.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Icyman/IcyManController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Icyman/IcyManController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Icyman/IcyManController.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Icyman/IcyManController.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Icyman/Icyman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Icyman/Icyman.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Icyman/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Icyman/Materials/Icyman.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Icyman/Materials/Icyman.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wednesday Frog Compilation.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wednesday Frog Compilation.mp4.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Minimalist Christmas/Demo/DemoScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Minimalist Christmas/Demo/DemoScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ezgif-6-d36d26147d-gif-im/New Sprite.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ezgif-6-d36d26147d-gif-im/New Sprite.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/MainScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +54,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -65,6 +83,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.TFVC" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -110,6 +129,7 @@
       <workItem from="1639560133553" duration="976000" />
       <workItem from="1639641456486" duration="1512000" />
       <workItem from="1639647566642" duration="1847000" />
+      <workItem from="1639990247318" duration="588000" />
     </task>
     <servers />
   </component>
@@ -123,11 +143,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="upstream/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
