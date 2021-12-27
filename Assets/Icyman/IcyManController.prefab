@@ -46,7 +46,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icyMan: {fileID: 2596419330603070793}
   lightEnabled: 1
-  lightSourcesIgnoringSwitchMode: []
+  lightSourcesIgnoringSwitchMode:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1 &2596419330603070793
 GameObject:
   m_ObjectHideFlags: 0
@@ -71,13 +75,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2596419330603070793}
-  m_LocalRotation: {x: -0, y: 0.74402, z: -0, w: 0.66815734}
-  m_LocalPosition: {x: -1.279, y: 1.828, z: 3.754}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: 0.3226895, y: 0.9465025, z: 0.00068031804, w: 0.0019954876}
+  m_LocalPosition: {x: -4.26, y: 2.01, z: -4.91}
+  m_LocalScale: {x: 0.82, y: 0.82, z: 2.671806}
   m_Children: []
   m_Father: {fileID: 2596419329895341945}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 96.15, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 179.75801, z: 37.651}
 --- !u!212 &2596419330603070794
 SpriteRenderer:
   m_ObjectHideFlags: 0

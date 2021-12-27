@@ -32,21 +32,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3f4e6ae-7409-40b1-8f24-30b981567956" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Icyman.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Icyman/IcyManController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Icyman/IcyManController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Icyman/IcyManController.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Icyman/IcyManController.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Icyman/Icyman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Icyman/Icyman.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Icyman/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Icyman/Materials/Icyman.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Icyman/Materials/Icyman.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Wednesday Frog Compilation.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Wednesday Frog Compilation.mp4.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/MainScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Icyman/IcyManController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Icyman/IcyManController.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KeyEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KeyEvent.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +117,8 @@
       <workItem from="1639560133553" duration="976000" />
       <workItem from="1639641456486" duration="1512000" />
       <workItem from="1639647566642" duration="1847000" />
-      <workItem from="1639990247318" duration="588000" />
+      <workItem from="1639990247318" duration="1366000" />
+      <workItem from="1640586253665" duration="1339000" />
     </task>
     <servers />
   </component>
